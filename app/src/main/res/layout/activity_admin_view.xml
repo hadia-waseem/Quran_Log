@@ -107,10 +107,10 @@
             <Button
                 android:id="@+id/Commit"
                 android:layout_width="50dp"
-                android:backgroundTint="#458045"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Save" />
+                android:backgroundTint="#458045"
+                android:text="Github" />
         </LinearLayout>
 
 
